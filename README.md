@@ -6,7 +6,7 @@ Answers in Python to interviewcake.com coding questions, available [here](https:
 - [x] 1. Array and string manipulation
 - [x] 2. Hashing and hash tables
 - [x] 3. Greedy algorithms
-- [ ] 4. Sorting, searching, and logarithms
+- [x] 4. Sorting, searching, and logarithms
 - [ ] 5. Trees and graphs
 - [ ] 6. Dynamic programming and recursion
 - [ ] 7. Queues and stacks
