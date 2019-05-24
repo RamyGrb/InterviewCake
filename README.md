@@ -7,9 +7,9 @@ Answers in Python to interviewcake.com coding questions, available [here](https:
 - [x] 2. Hashing and hash tables
 - [x] 3. Greedy algorithms
 - [x] 4. Sorting, searching, and logarithms
-- [ ] 5. Trees and graphs
-- [ ] 6. Dynamic programming and recursion
-- [ ] 7. Queues and stacks
+- [x] 5. Trees and graphs
+- [x] 6. Dynamic programming and recursion
+- [x] 7. Queues and stacks
 - [ ] 8. Linked lists
 - [ ] 9. System design
 - [ ] 10. General programming
